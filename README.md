@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm BossBykes
+# Hi there! 👋 I'm Matthew
 
 ## 🤖 Master's Student in Automation & Robotics
 
