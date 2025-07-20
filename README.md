@@ -72,7 +72,7 @@ I am a **Master's student in Automation and Robotics** at **Technical University
 I'm always excited to collaborate on robotics projects and discuss innovative automation solutions. Feel free to reach out!
 
 - 🌍 **Location:** Germany
-- 📧 **Contact:** [ikechukwuchibuike437@gmail.com]
+- 📧 **Contact:** ikechukwuchibuike437@gmail.com
 
 ---
 
