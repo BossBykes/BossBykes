@@ -2,18 +2,18 @@
 
 ## 🤖 Master's Student in Automation & Robotics
 
-I am a **Master's student in Automation and Robotics** at **Technical University of Dortmund** with hands-on experience in **autonomous systems**, **computer vision**, and **embedded systems development**. I also develop business management solutions for complex requirements.
+I am a **Master's student in Automation and Robotics** at **Technical University of Dortmund** with hands-on experience in **autonomous systems**, **mobile robots & UR**, and **embedded systems development**. I also develop business management solutions.
 
 ### 🔧 Technical Expertise
 
 **Robotics & Automation:**
-Autonomous navigation (ROS, SLAM) • Model Predictive Control (MPC) • Path planning & trajectory optimization • Computer vision • Embedded systems (Arduino, Jetson Nano)
+Autonomous navigation (ROS, SLAM) • Model Predictive Control (MPC) • Path planning & trajectory optimization • Mobile Robots • Embedded systems (Arduino, Jetson Nano)
 
 **Programming Languages:**
-Python • C++ • Java • MATLAB • JavaScript/TypeScript • PHP • SQL
+Python • MATLAB • Java • C++ • JavaScript/TypeScript • PHP • SQL
 
 **Web Development & Business:**
-React • Node.js • MySQL • Full-stack development • Business management systems • CRM solutions
+React • Node.js • MySQL • Full-stack development • Business management systems
 
 **Hardware & Sensors:**
 LIDAR • RGB-D cameras • Biometric sensors • Microcontroller programming • IMU, GPS & sensor fusion
