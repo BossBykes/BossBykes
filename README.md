@@ -2,7 +2,7 @@
 
 ## 🤖 Master's Student in Automation & Robotics
 
-I am a **Master's student in Automation and Robotics** at **Technical University of Dortmund** with hands-on experience in **autonomous systems**, **mobile robots & UR**, and **embedded systems development**. I also develop business management solutions.
+I am a **Master's student in Automation and Robotics** at **Technical University of Dortmund** with hands-on experience in **autonomous systems**, **mobile robots & UR Robot Arm**, and **embedded systems development**. I also develop business management solutions.
 
 ### 🔧 Technical Expertise
 
